@@ -1,3 +1,5 @@
+Notebook in Google Colab: https://colab.research.google.com/drive/1W58WVFX4GV8CEqQ2ZhdvKbTFJHCXhuOS?usp=sharing
+
 Exploratory Data Analysis on public dataset from BigQuery Iowa Liquor Sales
 
 1. Authorise after running the very first chapter
